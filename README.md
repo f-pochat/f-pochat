@@ -1,4 +1,4 @@
-<a href="https://github.com/f-pochat?tab=repositories">
+<a href="https://github.com/f-pochat?tab=repositories" style="align-items:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=f-pochat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/f-pochat/react-effortless-form">
