@@ -1,9 +1,9 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/f-pochat?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-pochat&show_icons=true&theme=dracula" />
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/f-pochat/react-effortless-form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-pochat&theme=dracula&hide=html,scss" />
 </a>
