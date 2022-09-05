@@ -1,5 +1,5 @@
 <a href="https://github.com/f-pochat?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-pochat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-pochat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card-width=100" />
 </a>
 &nbsp;
 &nbsp;
