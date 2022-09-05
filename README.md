@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 <a href="https://github.com/f-pochat/react-effortless-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-pochat&theme=dracula&hide=html,scss&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-pochat&theme=dracula&hide=html,scss" />
 </a>
 &nbsp;
 &nbsp;
