@@ -5,8 +5,8 @@
 &nbsp;
 &nbsp;
 <a href="https://github.com/f-pochat/react-effortless-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-pochat&theme=dracula&hide=html,scss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-pochat&theme=dracula&hide=html,scss&layout=compact" />
 </a>
 <a href="https://github.com/f-pochat/react-effortless-form">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-pochat&repo=react-effortless-form&theme=dracula&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=f-pochat&repo=react-effortless-form&theme=dracula&show_owner=true" />
 </a>
